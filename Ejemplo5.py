@@ -4,6 +4,7 @@
 Esto es para mostar la documentacion del codigo
 # Para documentar ir al root con CMD y ejecutar: python -m pydoc -w Ejemplo5
 # Para obtener paquetes pip freeze > requirements.txt
+# Para instalar requirimientos pip install -r requirements.txt
 
 
 """
