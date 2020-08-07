@@ -33,5 +33,5 @@ if __name__ == "__main__":
         #
         sumoPotencio(int(sys.argv[1]), int(sys.argv[2]))
     except:
-        # En caso de error, salida para Frida
+        # En caso de error
         print("Error : " + "Error al ejecutar el Custom Local: " + str(sys.exc_info()[0]) + str(sys.exc_info()[1]))
