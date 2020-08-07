@@ -20,22 +20,7 @@ def sumoPotencio(num1, num2):
     """ 
     Esta función recibe por entrada de consola dos números y se encarga de sumar y obtener la potencia de los mismo.
 
-    Para ejecutar en Turing se debe empaquetar como .exe y utilizar la expresión:
-
-
-    # Declaro variables necesarias
-    # num1 representa la base y num2 la potencia.
-    #
-    DefineVariable type "string" as "num1" with the value "x"
-    DefineVariable type "string" as "num1" with the value "y"
-    DefineVariable type "string" as "potencia"
-    DefineVariable type "string" as "suma"
-
-
-    # Corro custom
-    #
-    RunCustomLocal Ejemplo5 "<<<num1>>>" , "<<<num2>>>" 
-    
+   
     """
     print("potencia : " + str(num1**num2))
     print("suma : " + str(num1+num2))
